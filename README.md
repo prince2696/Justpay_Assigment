@@ -94,3 +94,13 @@ Contributions, issues, and feature requests are welcome! Feel free to open issue
 ## License
 
 This project is licensed under the MIT License.
+
+
+Screenshots:
+![WhatsApp Image 2025-09-21 at 13 35 19_9fa098f8](https://github.com/user-attachments/assets/581cb125-4e6f-4d07-a7f0-783982232634)
+![WhatsApp Image 2025-09-21 at 13 34 27_9d2fcee4](https://github.com/user-attachments/assets/fbb20416-5cb7-454b-adb8-e80e06534eb2)
+![WhatsApp Image 2025-09-21 at 13 33 14_f92c92c4](https://github.com/user-attachments/assets/6238933d-1066-4f5a-8550-2870ef13c8c5)
+![WhatsApp Image 2025-09-21 at 13 34 08_be515dba](https://github.com/user-attachments/assets/854bcab7-1f0a-4466-a34f-77c12d717102)
+
+
+
